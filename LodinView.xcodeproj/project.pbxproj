@@ -12,6 +12,7 @@
 		E9758D7920649B0900010C49 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9758D7720649B0900010C49 /* Main.storyboard */; };
 		E9758D7B20649B0900010C49 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9758D7A20649B0900010C49 /* Assets.xcassets */; };
 		E9758D7E20649B0900010C49 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9758D7C20649B0900010C49 /* LaunchScreen.storyboard */; };
+		E9758D8620649BF700010C49 /* RegisControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9758D8520649BF700010C49 /* RegisControllerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E9758D7A20649B0900010C49 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9758D7D20649B0900010C49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9758D7F20649B0900010C49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9758D8520649BF700010C49 /* RegisControllerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RegisControllerViewController.swift; path = ../../RegisControllerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				E9758D7320649B0900010C49 /* AppDelegate.swift */,
 				E9758D7520649B0900010C49 /* ViewController.swift */,
+				E9758D8520649BF700010C49 /* RegisControllerViewController.swift */,
 				E9758D7720649B0900010C49 /* Main.storyboard */,
 				E9758D7A20649B0900010C49 /* Assets.xcassets */,
 				E9758D7C20649B0900010C49 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9758D8620649BF700010C49 /* RegisControllerViewController.swift in Sources */,
 				E9758D7620649B0900010C49 /* ViewController.swift in Sources */,
 				E9758D7420649B0900010C49 /* AppDelegate.swift in Sources */,
 			);
